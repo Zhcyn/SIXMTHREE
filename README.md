@@ -1,0 +1,2 @@
+# SIXMTHREE
+The purpose of the Agronomist application is to provide the user with a simple and convenient way to learn how to water their houseplants. The user simply inputs their plant's watering and sunlight information-usually found on the label. The user can then conveniently see which plants require watering based on their perscribed interval. The current project is still under development, if you encounter any problems during the test, please contact me.
